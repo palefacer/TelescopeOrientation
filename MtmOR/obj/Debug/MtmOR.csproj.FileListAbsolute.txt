@@ -1,0 +1,148 @@
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\bin\Debug\MtmOR.exe
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\bin\Debug\MtmOR.pdb
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\MtmOR.exe
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\MtmOR.pdb
+C:\Users\Slava\Documents\Visual Studio 2008\Projects\MtmOR\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\MtmOR.exe
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\MtmOR.pdb
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\Slava\GAO\Work\MtmOR\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\Slava\GAO\Work\MtmOR\MtmOR\bin\Debug\MtmOR.exe
+E:\Slava\GAO\Work\MtmOR\MtmOR\bin\Debug\MtmOR.pdb
+E:\Slava\GAO\Work\MtmOR\MtmOR\bin\Debug\libalglib.dll
+c:\1\MtmOR\MtmOR\bin\Debug\libalglib.dll
+c:\1\MtmOR\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+c:\1\MtmOR\MtmOR\obj\Debug\MtmOR.Form1.resources
+c:\1\MtmOR\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+c:\1\MtmOR\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\MtmOR\MtmOR\obj\Debug\MtmOR.exe
+E:\1\MtmOR\MtmOR\obj\Debug\MtmOR.pdb
+E:\1\MtmOR\MtmOR\bin\Debug\MtmOR.exe
+E:\1\MtmOR\MtmOR\bin\Debug\MtmOR.pdb
+E:\1\MtmOR\MtmOR\bin\Debug\libalglib.dll
+E:\1\MtmOR\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\MtmOR\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\MtmOR\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\MtmOR\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+C:\1\MtmOR\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+C:\1\MtmOR\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+C:\1\MtmOR\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+C:\1\MtmOR\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\Torient\MtmOR\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\bin\Debug\libalglib.dll
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\Torient\MtmOR\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Debug\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Debug\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+F:\Temp\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+F:\Temp\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Form1.resources
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Form2.resources
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+E:\slava2\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+E:\slava2\2.1.8\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+E:\slava2\2.1.8\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+E:\slava2\2.1.8\V2.1.7\MtmOR\bin\Debug\libalglib.dll
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\bin\Debug\libalglib.dll
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Form1.resources
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Form2.resources
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+K:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.8\V2.1.7\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Form1.resources
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Form2.resources
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+I:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\libalglib.dll
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).exe
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\TelescopeOrientation (MTM-500M version).pdb
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).exe
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\TelescopeOrientation (MTM-500M version).pdb
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\bin\Debug\libalglib.dll
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\ResolveAssemblyReference.cache
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Form1.resources
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Form2.resources
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.Properties.Resources.resources
+J:\Work\GAO\MTM500M\Programs\TelescopeOrientation\2.1.9\V2.1.7\MtmOR\obj\Debug\MtmOR.csproj.GenerateResource.Cache

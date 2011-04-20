@@ -1,0 +1,85 @@
+E:\1\MtmOR\MtmOR\bin\Release\MtmOR.exe
+E:\1\MtmOR\MtmOR\bin\Release\MtmOR.pdb
+E:\1\MtmOR\MtmOR\bin\Release\libalglib.dll
+E:\1\MtmOR\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\MtmOR\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\MtmOR\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\MtmOR\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\MtmOR\MtmOR\obj\Release\MtmOR.exe
+E:\1\MtmOR\MtmOR\obj\Release\MtmOR.pdb
+C:\1\MtmOR\MtmOR\bin\Release\libalglib.dll
+C:\1\MtmOR\MtmOR\obj\Release\ResolveAssemblyReference.cache
+C:\1\MtmOR\MtmOR\obj\Release\MtmOR.Form1.resources
+C:\1\MtmOR\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+C:\1\MtmOR\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+C:\1\MtmOR\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+C:\1\MtmOR\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+C:\1\MtmOR\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+C:\1\MtmOR\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\Torient\MtmOR\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\Torient\MtmOR\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\Torient\MtmOR\MtmOR\bin\Release\libalglib.dll
+E:\1\Torient\MtmOR\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\Torient\MtmOR\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\Torient\MtmOR\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\Torient\MtmOR\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\bin\Release\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.1\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\bin\Release\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.2\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\bin\Release\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.3\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\bin\Release\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.4\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\bin\Release\libalglib.dll
+E:\1\TelescopeOrientation\V2.1.5\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\ResolveAssemblyReference.cache
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\MtmOR.Form1.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\MtmOR.Form2.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\MtmOR.Properties.Resources.resources
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\obj\Release\MtmOR.csproj.GenerateResource.Cache
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).exe
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Release\TelescopeOrientation (MTM-500M version).pdb
+E:\1\TelescopeOrientation\V2.1.6\MtmOR\bin\Release\libalglib.dll
